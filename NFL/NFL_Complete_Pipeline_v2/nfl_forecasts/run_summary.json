@@ -1,0 +1,112 @@
+{
+  "created_at_utc": "2026-10-18T08:42:25.874846+00:00",
+  "data_root": "C:\\Users\\Stephen\\Desktop\\Sports\\FantasySports\\NFL\\NFL_Complete_Pipeline_v2\\nfl_data",
+  "target": "fantasy_points_ppr",
+  "player_game_rows": 481734,
+  "model_rows": 481734,
+  "metrics_rows": 120,
+  "saved_models": 96,
+  "tables_loaded": {
+    "pbp": {
+      "rows": 1293659,
+      "columns": 372
+    },
+    "schedules": {
+      "rows": 7548,
+      "columns": 46
+    },
+    "player_stats": {
+      "rows": 481734,
+      "columns": 150
+    },
+    "player_stats_weekly": {
+      "rows": 0,
+      "columns": 0
+    },
+    "team_stats": {
+      "rows": 14691,
+      "columns": 138
+    },
+    "players": {
+      "rows": 24854,
+      "columns": 39
+    },
+    "rosters": {
+      "rows": 142728,
+      "columns": 36
+    },
+    "weekly_rosters": {
+      "rows": 921705,
+      "columns": 36
+    },
+    "snap_counts": {
+      "rows": 332075,
+      "columns": 16
+    },
+    "ngs_passing": {
+      "rows": 0,
+      "columns": 0
+    },
+    "ngs_receiving": {
+      "rows": 0,
+      "columns": 0
+    },
+    "ngs_rushing": {
+      "rows": 0,
+      "columns": 0
+    },
+    "participation": {
+      "rows": 478989,
+      "columns": 26
+    },
+    "injuries": {
+      "rows": 92541,
+      "columns": 17
+    },
+    "depth_charts": {
+      "rows": 2089610,
+      "columns": 26
+    },
+    "draft_picks": {
+      "rows": 12927,
+      "columns": 36
+    },
+    "combine": {
+      "rows": 8968,
+      "columns": 18
+    },
+    "pfr_passing": {
+      "rows": 0,
+      "columns": 0
+    },
+    "pfr_rushing": {
+      "rows": 0,
+      "columns": 0
+    },
+    "pfr_receiving": {
+      "rows": 0,
+      "columns": 0
+    },
+    "team_game_tendencies": {
+      "rows": 0,
+      "columns": 0
+    },
+    "team_season_tendencies": {
+      "rows": 0,
+      "columns": 0
+    },
+    "coaches": {
+      "rows": 0,
+      "columns": 5
+    },
+    "coach_tenures": {
+      "rows": 0,
+      "columns": 11
+    },
+    "coaching_changes": {
+      "rows": 0,
+      "columns": 9
+    }
+  },
+  "output_directory": "C:\\Users\\Stephen\\Desktop\\Sports\\FantasySports\\NFL\\NFL_Complete_Pipeline_v2\\nfl_forecasts"
+}

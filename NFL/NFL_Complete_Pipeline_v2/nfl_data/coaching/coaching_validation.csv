@@ -1,0 +1,5 @@
+dataset,rows,empty,has_source_url,notes
+coach_tenures,0,True,True,Tenure/change records require source URLs; calculated tendency tables derive from play-by-play.
+coaching_changes,0,True,True,Tenure/change records require source URLs; calculated tendency tables derive from play-by-play.
+team_game_tendencies,0,True,False,Tenure/change records require source URLs; calculated tendency tables derive from play-by-play.
+team_season_tendencies,0,True,False,Tenure/change records require source URLs; calculated tendency tables derive from play-by-play.

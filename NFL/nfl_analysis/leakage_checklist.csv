@@ -1,0 +1,9 @@
+feature_family,rule,status
+Player outcome rolling stats,Shift by one game before rolling,Required
+Opponent defense,Aggregate only prior completed games,Required
+Coach/team tendencies,Use tenure valid as of prediction cutoff,Required
+Injuries,"Use pregame report timestamp, not postgame final status",Required
+Weather,"Use forecast available before kickoff, not observed postgame weather",Required
+Rest-of-season schedule,Exclude games after cutoff from historical features,Required
+Next-year roster/coach,Do not use future facts not known at prediction time,Required
+Random row split,Avoid; use chronological or rolling-origin backtest,Required

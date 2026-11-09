@@ -1,0 +1,26 @@
+table,rows,columns,loaded,column_names
+pbp,1293659,372,True,"play_id, game_id, old_game_id, home_team, away_team, season_type, week, posteam, posteam_type, defteam, side_of_field, yardline_100, game_date, quarter_seconds_remaining, half_seconds_remaining, game_seconds_remaining, game_half, quarter_end, drive, sp, qtr, down, goal_to_go, time, yrdln"
+schedules,7548,46,True,"game_id, season, game_type, week, gameday, weekday, gametime, away_team, away_score, home_team, home_score, location, result, total, overtime, old_game_id, gsis, nfl_detail_id, pfr, pff, espn, ftn, away_rest, home_rest, away_moneyline"
+player_stats,481734,150,True,"player_id, player_name, player_display_name, position, position_group, headshot_url, season, week, season_type, game_id, team, opponent_team, completions, attempts, passing_yards, passing_tds, passing_interceptions, sacks_suffered, sack_yards_lost, sack_fumbles, sack_fumbles_lost, passing_air_yards, passing_yards_after_catch, passing_first_downs, passing_epa"
+player_stats_weekly,0,0,False,
+team_stats,14691,138,True,"season, week, team, season_type, game_id, opponent_team, completions, attempts, passing_yards, passing_tds, passing_interceptions, sacks_suffered, sack_yards_lost, sack_fumbles, sack_fumbles_lost, passing_air_yards, passing_yards_after_catch, passing_first_downs, passing_epa, passing_cpoe, passing_2pt_conversions, passing_10, passing_16, passing_20, passing_40"
+players,24854,39,True,"gsis_id, display_name, common_first_name, first_name, last_name, short_name, football_name, suffix, esb_id, nfl_id, pfr_id, pff_id, otc_id, espn_id, smart_id, birth_date, position_group, position, ngs_position_group, ngs_position, height, weight, headshot, college_name, college_conference"
+rosters,142728,36,True,"season, team, position, depth_chart_position, jersey_number, status, full_name, first_name, last_name, birth_date, height, weight, college, gsis_id, espn_id, sportradar_id, yahoo_id, rotowire_id, pff_id, pfr_id, fantasy_data_id, sleeper_id, years_exp, headshot_url, esb_id"
+weekly_rosters,921705,36,True,"season, team, position, depth_chart_position, jersey_number, status, full_name, first_name, last_name, birth_date, height, weight, college, gsis_id, espn_id, sportradar_id, yahoo_id, rotowire_id, pff_id, pfr_id, fantasy_data_id, sleeper_id, years_exp, headshot_url, ngs_position"
+snap_counts,332075,16,True,"game_id, pfr_game_id, season, game_type, week, player, pfr_player_id, position, team, opponent, offense_snaps, offense_pct, defense_snaps, defense_pct, st_snaps, st_pct"
+ngs_passing,0,0,False,
+ngs_receiving,0,0,False,
+ngs_rushing,0,0,False,
+participation,478989,26,True,"nflverse_game_id, old_game_id, play_id, possession_team, offense_formation, offense_personnel, defenders_in_box, defense_personnel, number_of_pass_rushers, players_on_play, offense_players, defense_players, n_offense, n_defense, ngs_air_yards, time_to_throw, was_pressure, route, defense_man_zone_type, defense_coverage_type, offense_names, defense_names, offense_positions, defense_positions, offense_numbers"
+injuries,92541,17,True,"season, game_type, team, week, gsis_id, position, full_name, first_name, last_name, report_primary_injury, report_secondary_injury, report_status, practice_primary_injury, practice_secondary_injury, practice_status, date_modified, season_type"
+depth_charts,2089610,26,True,"season, club_code, week, game_type, depth_team, last_name, first_name, football_name, formation, gsis_id, jersey_number, position, elias_id, depth_position, full_name, dt, team, player_name, espn_id, pos_grp_id, pos_grp, pos_id, pos_name, pos_abb, pos_slot"
+draft_picks,12927,36,True,"season, round, pick, team, gsis_id, pfr_player_id, cfb_player_id, pfr_player_name, hof, position, category, side, college, age, to, allpro, probowls, seasons_started, w_av, car_av, dr_av, games, pass_completions, pass_attempts, pass_yards"
+combine,8968,18,True,"season, draft_year, draft_team, draft_round, draft_ovr, pfr_id, cfb_id, player_name, pos, school, ht, wt, forty, bench, vertical, broad_jump, cone, shuttle"
+pfr_passing,0,0,False,
+pfr_rushing,0,0,False,
+pfr_receiving,0,0,False,
+team_game_tendencies,0,0,False,
+team_season_tendencies,0,0,False,
+coaches,0,5,False,"coach_id, coach_name, canonical_name, source_url, source_checked_at"
+coach_tenures,0,11,False,"coach_id, coach_name, role, team, start_date, end_date, start_season, end_season, interim, source_url, source_checked_at"
+coaching_changes,0,9,False,"change_date, season, team, role, coach_out, coach_in, change_type, source_url, source_checked_at"

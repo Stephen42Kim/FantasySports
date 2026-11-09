@@ -1,0 +1,31 @@
+repository,description,url,updated_at,stars,license
+nflverse/nfldata,NFL Data (by Lee Sharpe),https://github.com/nflverse/nfldata,2026-10-18T06:15:20Z,372,
+anishval123/NFL-Prediction-Backend,This code includes the data used for the AI predictions inside the website.,https://github.com/anishval123/NFL-Prediction-Backend,2026-10-18T06:10:24Z,0,
+rlapp311/nfl-board-data,,https://github.com/rlapp311/nfl-board-data,2026-10-18T06:09:27Z,0,
+aschlafhauser/nfl-betting-data,,https://github.com/aschlafhauser/nfl-betting-data,2026-10-18T06:06:26Z,2,
+oedunne/nfl-matchup-analytics,Takes in data from how defenses perform against certain positions and players for opposing offenses. Looks for statistical edges in sportsbetting props to hunt an analytical advantage. ,https://github.com/oedunne/nfl-matchup-analytics,2026-10-18T06:01:44Z,0,
+nfl-data/feeds,Cron-written data for the NFL. Served by GitHub Pages.,https://github.com/nfl-data/feeds,2026-10-18T06:01:38Z,0,
+Silknode1/nfl-fantasy,"NFL + fantasy football data pipeline (nflverse, Sleeper, ESPN, Odds) into Supabase",https://github.com/Silknode1/nfl-fantasy,2026-10-18T05:46:04Z,0,
+rebrowser/gametime-dataset,"Gametime ticket marketplace data: events with deal indicators, per-event listings with section/row/delivery, 4,000+ venues with geo-coordinates, performers across NFL, NBA, MLB, NHL, concerts, theater. Updated daily.",https://github.com/rebrowser/gametime-dataset,2026-10-18T05:26:08Z,0,
+NityaGehlot/nfl-data,"NFL weekly stats and news for my website ""Fantasy-Football-Helper"" on my GitHub",https://github.com/NityaGehlot/nfl-data,2026-10-18T05:22:03Z,2,MIT
+AngrySid52/fantasy-hq-data,Public NFL workload data preparation for Fantasy HQ,https://github.com/AngrySid52/fantasy-hq-data,2026-10-18T05:05:14Z,1,
+kmigdal/nfl-edge-data,data needed to run awesome models,https://github.com/kmigdal/nfl-edge-data,2026-10-18T04:43:08Z,0,
+drbodyjr/NFL-Bet-Advisor-Data,Background data flow,https://github.com/drbodyjr/NFL-Bet-Advisor-Data,2026-10-18T04:39:39Z,0,
+chmoses98/nfl-edge-finder,"Free-data NFL analytics, projection, and Kalshi market-pricing platform for game lines, totals, player props, calibration, and edge research.",https://github.com/chmoses98/nfl-edge-finder,2026-10-18T04:35:01Z,0,
+jameskroeker/nfl-betting-data-pipeline,,https://github.com/jameskroeker/nfl-betting-data-pipeline,2026-10-18T04:22:57Z,0,
+925Sports/925Sports-nfl-dfs-data,,https://github.com/925Sports/925Sports-nfl-dfs-data,2026-10-18T04:14:31Z,0,
+davisj2007/nfl_case_data,NFL CASE data | Jake Davis Analytics | case.jakedavisanalytics.com,https://github.com/davisj2007/nfl_case_data,2026-10-18T04:11:08Z,0,NOASSERTION
+benk-tech/gridiron-data,Scheduled collector for public NFL and college football market and odds data,https://github.com/benk-tech/gridiron-data,2026-10-18T04:01:17Z,0,
+pchattani/quant-sports,"The Quant: code, models and hourly GitHub Actions builds of seven sports analytics sites (football, F1, NBA/WNBA, tennis, MLB, NFL, NHL). All rights reserved; see DATA_LICENSES.md.",https://github.com/pchattani/quant-sports,2026-10-18T03:56:47Z,0,NOASSERTION
+jlattanzi4/nfl-survivor-optimizer,Optimize NFL survivor pool picks using data-driven strategies,https://github.com/jlattanzi4/nfl-survivor-optimizer,2026-10-18T03:51:45Z,2,MIT
+ethanbell528-cmd/fda-project-1,"The Closing Line: NFL, NBA, MLB, NHL and EPL games 1990-today vs. the betting market (Financial Data Analytics project)",https://github.com/ethanbell528-cmd/fda-project-1,2026-10-18T03:31:49Z,0,
+Gin-G/NFL-API,A FastAPI and PostgreSQL combination API for NFL statistics and data analysis,https://github.com/Gin-G/NFL-API,2026-10-18T03:22:26Z,0,
+Coxewagen/predicteur-nfl-data,,https://github.com/Coxewagen/predicteur-nfl-data,2026-10-18T03:03:10Z,1,
+aguycalledpaul/nfl-data,,https://github.com/aguycalledpaul/nfl-data,2026-10-18T02:24:04Z,0,
+sportsdataverse/sportsdataverse-js,"Retrieves sports data from a popular sports website as well as from the NCAA website, with support for NBA, WNBA, NFL, NHL, College Football and mens and womens college basketball, ",https://github.com/sportsdataverse/sportsdataverse-js,2026-10-18T02:12:12Z,88,MIT
+Gatorz1989/NFL-Daily-Data-Pull,NFL Daily Data Pull,https://github.com/Gatorz1989/NFL-Daily-Data-Pull,2026-10-18T02:05:17Z,0,
+PoojaPS17/sports-stats-site,"NBA & NFL scores, standings and player stats — free ESPN data, updated every 15 min",https://github.com/PoojaPS17/sports-stats-site,2026-10-18T02:02:54Z,0,
+Hclark36/2027-NFL-Big-Data-Bowl,My full repository for the 2027 Kaggle NFL Big Data Bowl. I am creating a model to show how players can run the same 40 yard dash time but reach top speed and peak acceleration at different times. Then seeing if it translates to in game statistics.,https://github.com/Hclark36/2027-NFL-Big-Data-Bowl,2026-10-18T01:17:38Z,0,
+josholiveros2003-svg/nfl-app,Personal NFL stats app (Expo web + nflverse data + Madden-based ratings),https://github.com/josholiveros2003-svg/nfl-app,2026-10-18T01:02:46Z,0,
+gesmith0606/nfl_data_engineering,,https://github.com/gesmith0606/nfl_data_engineering,2026-10-18T00:49:44Z,1,
+cyanheads/sports-mcp-server,"Get live scores, schedules, standings, team and player data for NFL, NBA, MLB, NHL, soccer, and more via MCP. STDIO or Streamable HTTP.",https://github.com/cyanheads/sports-mcp-server,2026-10-17T23:01:51Z,2,Apache-2.0

@@ -1,0 +1,9 @@
+feature_family,availability_rule,guardrail
+Player historical stats,After prior game final,Use lagged features only
+Opponent defense,After prior games final,Use prior-game aggregates
+Coach tenure/change,Publicly announced before kickoff,Join with valid-from date
+Injuries,Pregame report timestamp,Do not use final postgame status
+Weather,Forecast timestamp before kickoff,Do not use observed postgame weather
+Depth chart,Timestamped pregame depth chart,Avoid future updates
+Team tendency,Calculated only from prior games,Do not join full-season aggregate into earlier weeks
+Next-season roster,Only facts known at forecast cutoff,Separate retrospective analysis from real-time forecast
