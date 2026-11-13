@@ -27,6 +27,8 @@ dependencies = [
     "seaborn>=0.13.2",
     "statsmodels>=0.15.0",
     "tenacity>=9.2.1",
+    "torch>=2.15.0",
+    "torchvision>=0.29.2",
     "tqdm>=4.70.1",
 ]
 
@@ -49,3 +51,11 @@ dev = [
     "pytest>=9.2.0",
     "ruff>=0.17.4",
 ]
+
+[tool.uv.sources]
+torch = { index = "pytorch-cu134" }
+torchvision = { index = "pytorch-cu134" }
+
+[[tool.uv.index]]
+name = "pytorch-cu134"
+url = "https://download.pytorch.org/whl/cu134"
